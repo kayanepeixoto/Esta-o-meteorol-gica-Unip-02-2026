@@ -203,7 +203,11 @@ Ao encerrar o coletor, todos os registros são exportados em ordem decrescente d
 
 ## 👩‍💻 Autores
 
-- **Kayane Peixoto**
-- _(adicione aqui os demais integrantes do grupo)_
+- **BÁRBARA GIULIA DA SILVA CONTELI**
+- **DENNYS OLIVEIRA BENEVIDES**
+- **FILIPE DE SALES SALDANHA**
+- **KAYANE CARDOSO PEIXOTO**
+- **LEONARDO GODOI CUCATO NUNES FREIRE**
+- **PABLO ALVES DE PAULA**
 
 Projeto acadêmico, UNIP, 2º semestre de 2026.
